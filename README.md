@@ -14,3 +14,4 @@ cd MERN-session-auth
 npm i && npm run dev
 ```
 
+Created by ``Mohammed Amiwala`` and ``Ihsaan Bijapuri`` (https://github.com/wavygoten)
