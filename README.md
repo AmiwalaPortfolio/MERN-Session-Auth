@@ -3,7 +3,7 @@
 Mongodb, Express, React, Nodejs authentication based with express-session. 
 
 ```
-git clone https://github.com/wavygoten/MERN-session-auth.git
+git clone https://github.com/AmiwalaPortfolio/MERN-Session-Auth
 ```
 
 ```
